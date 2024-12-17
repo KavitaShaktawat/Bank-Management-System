@@ -1,0 +1,4 @@
+1|kavita|10000
+1|anjali|200
+2|lakshmi|30
+123456|lavanya|1200
